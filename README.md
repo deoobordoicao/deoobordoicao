@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Deo Obordo Icao from Philippines and I'm currently improving my website development skills.
+- 👀 I’m interested in HTML, CSS, Java Script, PHP, Wordpress, MSQL and anything that is related to computer programming...
+- 🌱 I’m currently learning all of the stated above and including email marketing...
+- 💞️ I’m looking to collaborate on any project to enhance my skills and to experience real projects and real people as a collboration project...
+- 📫 How to reach me? You can visit my website: https://deoobordoicao.blogspot.com
+<!---
+deoobordoicao/deoobordoicao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
