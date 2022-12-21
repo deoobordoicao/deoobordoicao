@@ -1,9 +1,5 @@
 ### Hello visitor 👋
 
-<!--
-**deoobordoicao/deoobordoicao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on different website creation, photo and video editing they are small projects to be used in my social media accounts...
 - 🌱 I’m currently learning website development , photo and video editing...
